@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ce98a98-75f7-4159-82e4-60aefd21344f/deploy-status)](https://app.netlify.com/sites/eloquent-golick-22db1b/deploys)
+
 # 3D Periodic Table
 
 View periodic table in 3D.
